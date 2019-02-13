@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/eftekherhusain/Desktop/Desktop/CODING/SoftwareTesting/lib/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/eftekherhusain/Desktop/Desktop/CODING/SoftwareTesting/lib/client-combined-3.5.2-nodeps.jar"/>
+	<classpathentry kind="lib" path="/Users/eftekherhusain/Desktop/Desktop/CODING/SoftwareTesting/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="/Users/eftekherhusain/Desktop/Desktop/CODING/SoftwareTesting/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/eftekherhusain/Desktop/Desktop/CODING/SoftwareTesting/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/eftekherhusain/Desktop/Desktop/CODING/SoftwareTesting/lib/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="/Users/eftekherhusain/Desktop/Desktop/CODING/SoftwareTesting/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/eftekherhusain/Desktop/Desktop/CODING/SoftwareTesting/lib/cssparser-0.9.23.jar"/>
+	<classpathentry kind="lib" path="/Users/eftekherhusain/Desktop/Desktop/CODING/SoftwareTesting/lib/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="/Users/eftekherhusain/Desktop/Desktop/CODING/SoftwareTesting/lib/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="/Users/eftekherhusain/Desktop/Desktop/CODING/SoftwareTesting/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/eftekherhusain/Desktop/Desktop/CODING/SoftwareTesting/lib/htmlunit-2.27.jar"/>
+	<classpathentry kind="lib" path="/Users/eftekherhusain/Desktop/Desktop/CODING/SoftwareTesting/lib/htmlunit-core-js-2.27.jar"/>
+	<classpathentry kind="lib" path="/Users/eftekherhusain/Desktop/Desktop/CODING/SoftwareTesting/lib/htmlunit-driver-2.27.jar"/>
+	<classpathentry kind="lib" path="/Users/eftekherhusain/Desktop/Desktop/CODING/SoftwareTesting/lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="/Users/eftekherhusain/Desktop/Desktop/CODING/SoftwareTesting/lib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="/Users/eftekherhusain/Desktop/Desktop/CODING/SoftwareTesting/lib/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="/Users/eftekherhusain/Desktop/Desktop/CODING/SoftwareTesting/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/eftekherhusain/Desktop/Desktop/CODING/SoftwareTesting/lib/jetty-client-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="/Users/eftekherhusain/Desktop/Desktop/CODING/SoftwareTesting/lib/jetty-http-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="/Users/eftekherhusain/Desktop/Desktop/CODING/SoftwareTesting/lib/jetty-io-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="/Users/eftekherhusain/Desktop/Desktop/CODING/SoftwareTesting/lib/jetty-util-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="/Users/eftekherhusain/Desktop/Desktop/CODING/SoftwareTesting/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/eftekherhusain/Desktop/Desktop/CODING/SoftwareTesting/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/eftekherhusain/Desktop/Desktop/CODING/SoftwareTesting/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="/Users/eftekherhusain/Desktop/Desktop/CODING/SoftwareTesting/lib/neko-htmlunit-2.27.jar"/>
+	<classpathentry kind="lib" path="/Users/eftekherhusain/Desktop/Desktop/CODING/SoftwareTesting/lib/phantomjsdriver-1.4.0.jar"/>
+	<classpathentry kind="lib" path="/Users/eftekherhusain/Desktop/Desktop/CODING/SoftwareTesting/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/eftekherhusain/Desktop/Desktop/CODING/SoftwareTesting/lib/selenium-server-standalone-3.5.0.jar"/>
+	<classpathentry kind="lib" path="/Users/eftekherhusain/Desktop/Desktop/CODING/SoftwareTesting/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/Users/eftekherhusain/Desktop/Desktop/CODING/SoftwareTesting/lib/websocket-api-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="/Users/eftekherhusain/Desktop/Desktop/CODING/SoftwareTesting/lib/websocket-client-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="/Users/eftekherhusain/Desktop/Desktop/CODING/SoftwareTesting/lib/websocket-common-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="/Users/eftekherhusain/Desktop/Desktop/CODING/SoftwareTesting/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/Users/eftekherhusain/Desktop/Desktop/CODING/SoftwareTesting/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="/Users/eftekherhusain/Desktop/Desktop/CODING/SoftwareTesting/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="/Users/eftekherhusain/Desktop/Desktop/CODING/SoftwareTesting/lib/selenium-server-standalone-2.46.0 (1).jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
